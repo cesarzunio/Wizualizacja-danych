@@ -69,10 +69,5 @@ def policz_produkty(** produkty):
     print('Ilosc: ' + str(ilosc) + ', suma: ' + str(suma))
 
 
-slownik = {
-    'chlep' : 3,
-    'cukier' : 20,
-    'maslo' : 2
-}
 
 policz_produkty(chleb = 3, maslo = 2, cukier = 20)
